@@ -4,7 +4,7 @@ import at.htl.robot.model.Robot;
 import processing.core.PApplet;
 
 /**
- * Adrian Moser
+ * Adrian <kein Mittelname> </kein>Moser
  */
 public class Main extends PApplet {
 
